@@ -3,6 +3,6 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://robsonl16.github.io",
-  base: "/PersonalPage/",
+  site: "https://robsonl16.github.io/PersonalPage/",
+  // base: "/PersonalPage/",
 });
